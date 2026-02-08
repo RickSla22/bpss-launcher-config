@@ -53,7 +53,7 @@
       "name": "Persona 5 Royal",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
       "url": "https://www.mediafire.com/file/ld8rsq6gzy0ztp0/Persona+5+Royal.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/assets/P5R.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/P5R.png"
     },
     {
       "name": "Call Of Duty Black Ops II",
@@ -105,3 +105,4 @@
     }
   ]
 }
+
