@@ -1,12 +1,11 @@
 {
-  "app_title": "BPSS Online V0.1",
+  "app_title": "BPSS Online V1",
   "options": [
     {
       "name": "Resident Evil 4",
       "description": "ℹ️ Pode ser jogar diretamente pela Steam.",
       "download_url": "https://www.mediafire.com/file/pty9lhjo4sphhsn/RE4+BPSS.zip/file",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RE4.png"
-      "categories": ["tested", "steam"]
     },
     {
       "name": "Red Dead Redemption 2",
@@ -103,15 +102,10 @@
       "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o jogo dentro da pasta bin",
       "download_url": "https://www.mediafire.com/file/51qlxtoerrq0i6r/FarCry+4+BPSS.zip/file",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FC4.png"
-    },
-    {
-      "name": "data teste",
-      "description": "Sem Informações.",
-      "download_url": "https://www.mediafire.com/file/pty9lhjo4sphhsn/RE4+BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RE4.png"
     }
   ]
 }
+
 
 
 
