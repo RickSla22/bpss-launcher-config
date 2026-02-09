@@ -6,6 +6,7 @@
       "description": "ℹ️ Pode ser jogar diretamente pela Steam.",
       "url": "https://www.mediafire.com/file/pty9lhjo4sphhsn/RE4+BPSS.zip/file",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RE4.png"
+      "categories": ["tested"]
     },
     {
       "name": "Red Dead Redemption 2",
@@ -111,6 +112,7 @@
     }
   ]
 }
+
 
 
 
