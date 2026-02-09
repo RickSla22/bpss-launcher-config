@@ -102,8 +102,15 @@
       "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o jogo dentro da pasta bin",
       "url": "https://www.mediafire.com/file/51qlxtoerrq0i6r/FarCry+4+BPSS.zip/file",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FC4.png"
+    },
+    {
+      "name": "data teste",
+      "description": "Sem Informações.",
+      "url": "",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/DT.png"
     }
   ]
 }
+
 
 
