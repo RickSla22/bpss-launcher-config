@@ -11,7 +11,8 @@
       "name": "Red Dead Redemption 2",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o Launcher.exe dentro da pasta do jogo (se necessario, execute como Administrador)",
       "download_url": "https://www.mediafire.com/file/7ostban6hogo1h7/RDR2+BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RDR2.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RDR2.png",
+      "exe_path": "Launcher.exe"
     },
     {
       "name": "Red Dead Redemption",
