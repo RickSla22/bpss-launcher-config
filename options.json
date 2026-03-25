@@ -12,7 +12,7 @@
       "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o Launcher.exe dentro da pasta do jogo (se necessario, execute como Administrador)",
       "download_url": "https://www.mediafire.com/file/7ostban6hogo1h7/RDR2+BPSS.zip/file",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RDR2.png",
-      "exe_path": "BPSS Launcher.exe"
+      "exe_path": "Launcher.exe"
     },
     {
       "name": "Red Dead Redemption",
@@ -31,7 +31,8 @@
       "name": "Assassin's Creed Valhalla",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
       "download_url": "https://www.mediafire.com/file/gon9jzo532i5lup/AC+Valhalla+BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/ACV.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/ACV.png",
+      "exe_path": "ACValhalla.exe"
     },
     {
       "name": "Efootball PES 2021",
@@ -40,16 +41,11 @@
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/PES21.png"
     },
     {
-      "name": "Assassin's Creed Unity",
-      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
-      "download_url": "https://www.mediafire.com/file/gk4w3kh5s5kc9hs/Assassin%2527s_Creed_Unity_BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/ACU.png"
-    },
-    {
       "name": "The Crew 2",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
       "download_url": "https://www.mediafire.com/file/nzlbvc6ur5tk058/The_Crew_2_BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/TC2.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/TC2.png",
+      "exe_path": "TheCrew2.exe"
     },
     {
       "name": "Persona 5 Royal",
@@ -67,7 +63,8 @@
       "name": "Star Wars Battlefront II",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
       "download_url": "https://www.mediafire.com/file/56habs0m0749ybv/SW+Battlefront+II+BPS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/SWB2.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/SWB2.png",
+      "exe_path": "starwarsbattlefrontii.exe"
     },
     {
       "name": "Assassin's Creed Origins",
@@ -104,7 +101,8 @@
       "name": "Far Cry 4",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o jogo dentro da pasta bin",
       "download_url": "https://www.mediafire.com/file/51qlxtoerrq0i6r/FarCry+4+BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FC4.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FC4.png",
+      "exe_path": "bin/FarCry4.exe"
     }
   ]
 }
