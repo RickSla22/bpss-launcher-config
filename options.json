@@ -24,7 +24,8 @@
       "name": "EA SPORTS™ FIFA 22",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
       "download_url": "https://www.mediafire.com/file/dwcboo1ruvuc67a/FIFA+22+BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FF22.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FF22.png",
+      "exe_path": "FIFA22.exe"
     },
     {
       "name": "Assassin's Creed Valhalla",
@@ -90,7 +91,8 @@
       "name": "Far Cry 3",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o jogo dentro da pasta bin",
       "download_url": "https://www.mediafire.com/file/xdtyfh99pdo5eq4/FarCry+3+BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FC3.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FC3.png",
+      "exe_path": "bin/farcry3.exe"
     },
     {
       "name": "Sonic Frontiers",
