@@ -1,0 +1,12 @@
+{
+  "app_title": "Ativador",
+  "options": [
+    {
+      "name": "Produto 1",
+      "description": "Descrição do produto",
+      "download_url": "https://link-mediafire",
+      "image_url": "https://link-da-imagem",
+      "type": "ativador"
+    }
+  ]
+}
