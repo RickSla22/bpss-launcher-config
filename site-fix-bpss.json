@@ -5,26 +5,26 @@
       "name": "Resident Evil Requiem",
       "description": "⚠️ Talvez seja necessário executar o jogo fora da Steam.",
       "download_url": "https://www.mediafire.com/file/q2w6i5w3yn3wmxx/RE9-voices38.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RE9-BPSS.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RE9-BPSS-site.png"
     },
     {
       "name": "Red Dead Redemption 2",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o Launcher.exe dentro da pasta do jogo (se necessario, execute como Administrador)",
       "download_url": "https://www.mediafire.com/file/7ostban6hogo1h7/RDR2+BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RDR2.png",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/rdr2-bpss-site.png",
       "exe_path": "Launcher.exe"
     },
     {
       "name": "Grand Theft Auto V (Legacy)",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o PlayGTAV.exe dentro da pasta do jogo",
       "download_url": "https://www.mediafire.com/file/sgec6zto0f55p8b/GTA5LEGACY_BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/GTA5-BPSS.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/gta5-bpss-site.png"
     },
     {
       "name": "Red Dead Redemption",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
       "download_url": "https://www.mediafire.com/file/8wfbf2dg1d4rslb/Red+Dead+Redemption+1+BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RDR1.png"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/rdr1-bpss-site.png"
     },
     {
       "name": "EA SPORTS™ FIFA 22",
