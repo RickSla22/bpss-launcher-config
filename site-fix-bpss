@@ -1,0 +1,122 @@
+{
+  "app_title": "BPSS Online V1",
+  "options": [
+    {
+      "name": "Resident Evil Requiem",
+      "description": "⚠️ Talvez seja necessário executar o jogo fora da Steam.",
+      "download_url": "https://www.mediafire.com/file/q2w6i5w3yn3wmxx/RE9-voices38.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RE9-BPSS.png"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o Launcher.exe dentro da pasta do jogo (se necessario, execute como Administrador)",
+      "download_url": "https://www.mediafire.com/file/7ostban6hogo1h7/RDR2+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RDR2.png",
+      "exe_path": "Launcher.exe"
+    },
+    {
+      "name": "Grand Theft Auto V (Legacy)",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o PlayGTAV.exe dentro da pasta do jogo",
+      "download_url": "https://www.mediafire.com/file/sgec6zto0f55p8b/GTA5LEGACY_BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/GTA5-BPSS.png"
+    },
+    {
+      "name": "Red Dead Redemption",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/8wfbf2dg1d4rslb/Red+Dead+Redemption+1+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RDR1.png"
+    },
+    {
+      "name": "EA SPORTS™ FIFA 22",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/dwcboo1ruvuc67a/FIFA+22+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FF22.png",
+      "exe_path": "FIFA22.exe"
+    },
+    {
+      "name": "Assassin's Creed Valhalla",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/gon9jzo532i5lup/AC+Valhalla+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/ACV.png",
+      "exe_path": "ACValhalla.exe"
+    },
+    {
+      "name": "Efootball PES 2021",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/3u8bovattsfuiy0/PES2021+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/PES21.png"
+    },
+    {
+      "name": "The Crew 2",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/nzlbvc6ur5tk058/The_Crew_2_BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/TC2.png",
+      "exe_path": "TheCrew2.exe"
+    },
+    {
+      "name": "Persona 5 Royal",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/ld8rsq6gzy0ztp0/Persona+5+Royal.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/P5R.png"
+    },
+    {
+      "name": "Call Of Duty Black Ops II",
+      "description": "ℹ️ Pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/1hg6n6nl42xzrmn/COD+BO+II+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/CODBO2.png"
+    },
+    {
+      "name": "Star Wars Battlefront II",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/56habs0m0749ybv/SW+Battlefront+II+BPS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/SWB2.png",
+      "exe_path": "starwarsbattlefrontii.exe"
+    },
+    {
+      "name": "Assassin's Creed Origins",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/4m4l7kixyttak10/AC+Origins+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/ACO.png"
+    },
+    {
+      "name": "Need for Speed Rivals",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
+      "download_url": "https://www.mediafire.com/file/ut7lz05byj0helm/NFS+Rivals+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/NFSR.png"
+    },
+    {
+      "name": "Microsoft Flight Simulator 2020",
+      "description": "Sem Informações.",
+      "download_url": "https://www.mediafire.com/file/f0x59nf9rpo50wn/Flight+Simulator+2020+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/MFS20.png"
+    },
+    {
+      "name": "Far Cry 3",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o jogo dentro da pasta bin",
+      "download_url": "https://www.mediafire.com/file/xdtyfh99pdo5eq4/FarCry+3+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FC3.png",
+      "exe_path": "bin/farcry3.exe"
+    },
+    {
+      "name": "Sonic Frontiers",
+      "description": "Sem Informações.",
+      "download_url": "https://www.mediafire.com/file/s7shtlixcyje6vf/Sonic+Frontiers+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/SF.png"
+    },
+    {
+      "name": "Far Cry 4",
+      "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o jogo dentro da pasta bin",
+      "download_url": "https://www.mediafire.com/file/51qlxtoerrq0i6r/FarCry+4+BPSS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/FC4.png",
+      "exe_path": "bin/FarCry4.exe"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
