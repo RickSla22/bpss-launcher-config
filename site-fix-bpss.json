@@ -3,13 +3,13 @@
   "options": [
     {
       "name": "Resident Evil Requiem",
-      "description": "⚠️ Talvez seja necessário executar o jogo fora da Steam.",
+      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
       "download_url": "https://www.mediafire.com/file/q2w6i5w3yn3wmxx/RE9-voices38.zip/file",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RE9-BPSS-site.png"
     },
     {
       "name": "Red Dead Redemption 2",
-      "description": "⚠️ Não pode ser jogar diretamente pela Steam. Execute o Launcher.exe dentro da pasta do jogo (se necessario, execute como Administrador)",
+      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5)⚠️ Inicie o jogo pelo Launcher.exe na pasta.",
       "download_url": "https://www.mediafire.com/file/7ostban6hogo1h7/RDR2+BPSS.zip/file",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/rdr2-bpss-site.png",
       "exe_path": "Launcher.exe"
