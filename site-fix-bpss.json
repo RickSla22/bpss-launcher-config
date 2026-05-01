@@ -28,7 +28,7 @@
     },
     {
       "name": "Black Myth: Wukong",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo (steamapps/common/pasta do jogo).\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
+      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
       "download_url": "https://www.mediafire.com/file/q2553fcqtivopyb/Black.Myth.Wukong.Bypass-voices38.zip/file",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/bmwBPSS.png"
     },
