@@ -33,6 +33,12 @@
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/bmwBPSS.png"
     },
     {
+      "name": "Grand Theft Auto IV",
+      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pelo PlayGTAIV.exe na pasta.⚠️",
+      "download_url": "https://www.mediafire.com/file/jeyekai2kyh5y3x/GTA-IV-BYPASS.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/gta4BPSS.png"
+    },
+    {
       "name": "EA SPORTS™ FIFA 22",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://www.mediafire.com/file/dwcboo1ruvuc67a/FIFA+22+BPSS.zip/file",
