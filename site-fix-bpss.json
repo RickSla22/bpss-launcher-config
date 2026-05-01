@@ -27,11 +27,16 @@
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/rdr1-bpss-site.png"
     },
     {
+      "name": "Black Myth: Wukong",
+      "description": "Sem Informação.",
+      "download_url": "https://www.mediafire.com/file/q2553fcqtivopyb/Black.Myth.Wukong.Bypass-voices38.zip/file",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/bmwBPSS.png"
+    },
+    {
       "name": "EA SPORTS™ FIFA 22",
       "description": "⚠️ Não pode ser jogar diretamente pela Steam.",
       "download_url": "https://www.mediafire.com/file/dwcboo1ruvuc67a/FIFA+22+BPSS.zip/file",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/fifa22-bpss-site.png",
-      "exe_path": "FIFA22.exe"
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/fifa22-bpss-site.png"
     },
     {
       "name": "Assassin's Creed Valhalla",
