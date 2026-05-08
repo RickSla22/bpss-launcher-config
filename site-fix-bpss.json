@@ -4,7 +4,7 @@
     {
       "name": "Resident Evil Requiem",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
-      "download_url": "https://www.mediafire.com/file/q2w6i5w3yn3wmxx/RE9-voices38.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/RE9-voices38.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RE9-BPSS-site.png"
     },
     {
@@ -23,31 +23,31 @@
     {
       "name": "Red Dead Redemption",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
-      "download_url": "https://www.mediafire.com/file/8wfbf2dg1d4rslb/Red+Dead+Redemption+1+BPSS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.0/Red.Dead.Redemption.1.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/rdr1-bpss-site.png"
     },
     {
       "name": "Black Myth: Wukong",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
-      "download_url": "https://www.mediafire.com/file/q2553fcqtivopyb/Black.Myth.Wukong.Bypass-voices38.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/Black.Myth.Wukong.Bypass-voices38.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/bmwBPSS.png"
     },
     {
       "name": "Grand Theft Auto IV",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pelo PlayGTAIV.exe na pasta.⚠️",
-      "download_url": "https://www.mediafire.com/file/jeyekai2kyh5y3x/GTA-IV-BYPASS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.0/GTA-IV-BYPASS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/gta4BPSS.png"
     },
     {
       "name": "EA SPORTS™ FIFA 22",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
-      "download_url": "https://www.mediafire.com/file/dwcboo1ruvuc67a/FIFA+22+BPSS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.3/FIFA.22.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/fifa22-bpss-site.png"
     },
     {
       "name": "Assassin's Creed Valhalla",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
-      "download_url": "https://www.mediafire.com/file/gon9jzo532i5lup/AC+Valhalla+BPSS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/AC.Valhalla.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/ACV-bpss-site.png",
       "exe_path": "ACValhalla.exe"
     },
@@ -60,7 +60,7 @@
     {
       "name": "The Crew 2",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
-      "download_url": "https://www.mediafire.com/file/nzlbvc6ur5tk058/The_Crew_2_BPSS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/The.Crew.2.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/thecrew2-bpss-site.png",
       "exe_path": "TheCrew2.exe"
     },
@@ -79,14 +79,14 @@
     {
       "name": "Star Wars Battlefront II",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
-      "download_url": "https://www.mediafire.com/file/56habs0m0749ybv/SW+Battlefront+II+BPS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.3/SW.Battlefront.II.BPS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/sw_b2-bpss-site.png",
       "exe_path": "starwarsbattlefrontii.exe"
     },
     {
       "name": "Assassin's Creed Origins",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
-      "download_url": "https://www.mediafire.com/file/4m4l7kixyttak10/AC+Origins+BPSS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/AC.Origins.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/ACO-bpss-site.png"
     },
     {
@@ -104,20 +104,20 @@
     {
       "name": "Far Cry 3",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta bin.⚠️",
-      "download_url": "https://www.mediafire.com/file/xdtyfh99pdo5eq4/FarCry+3+BPSS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/FarCry.3.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/farcry3-bpss-site.png",
       "exe_path": "bin/farcry3.exe"
     },
     {
       "name": "Sonic Frontiers",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
-      "download_url": "https://www.mediafire.com/file/s7shtlixcyje6vf/Sonic+Frontiers+BPSS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/Sonic.Frontiers.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/SonicFrontiers-bpss-site.png"
     },
     {
       "name": "Far Cry 4",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta bin.⚠️",
-      "download_url": "https://www.mediafire.com/file/51qlxtoerrq0i6r/FarCry+4+BPSS.zip/file",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/FarCry.4.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/farcry4-bpss-site.png",
       "exe_path": "bin/FarCry4.exe"
     }
