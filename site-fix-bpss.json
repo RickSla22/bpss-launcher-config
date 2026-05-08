@@ -33,6 +33,12 @@
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/bmwBPSS.png"
     },
     {
+      "name": "DOOM: The Dark Ages",
+      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/DOOM.The.Dark.Ages-BPSS.zip",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/doom-tda.png"
+    },
+    {
       "name": "Grand Theft Auto IV",
       "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pelo PlayGTAIV.exe na pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.0/GTA-IV-BYPASS.zip",
