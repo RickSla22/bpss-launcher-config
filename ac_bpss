@@ -143,6 +143,46 @@
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/farcry4-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/farcry4-bpss-banner.png",
       "exe_path": "bin/FarCry4.exe"
+    },
+    {
+      "name": "Watch_Dogs 2",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/watch.dogs2-bpss.zip",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/watch.dogs2-bpss.png",
+      "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/watch.dogs2-bpss-banner.png",
+      "exe_path": "bin/FarCry4.exe"
+    },
+    {
+      "name": "Watch_Dogs Legion",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/watch.dogs.legion-bpss.zip",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/watch.dogs.legion-bpss.png",
+      "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/watch.dogs.legion-bpss-banner.png",
+      "exe_path": "bin/FarCry4.exe"
+    },
+    {
+      "name": "Need for Speed Most Wanted",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.3/nfs.mw-bpss.zip",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/nfs.mw-bpss.png",
+      "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/nfs.mw-bpss-banner.png",
+      "exe_path": "bin/FarCry4.exe"
+    },
+    {
+      "name": "Dragon Age Inquisition",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/dragon.age.inquisition-bpss.zip",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/dragon.age.inquisition-bpss.png",
+      "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/dragon.age.inquisition-bpss-banner.png",
+      "exe_path": "bin/FarCry4.exe"
+    },
+    {
+      "name": "Battlefield 4",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.3/Battlefield4-bpss.zip",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/battlefield4-bpss.png",
+      "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/battlefield4-bpss-banner.png",
+      "exe_path": "bin/FarCry4.exe"
     }
   ]
 }
