@@ -5,7 +5,7 @@
       "name": "PRAGMATA",
       "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo normalmente pela Steam.",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/pragmata.voices38-bpss.zip",
-      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/pragmata-bpss.png",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/pragmata-bpss-banner.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/pragmata-bpss-banner.png"
     },
     {
