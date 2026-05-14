@@ -3,14 +3,14 @@
   "options": [
     {
       "name": "Resident Evil Requiem",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo normalmente pela Steam.",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/RE9-voices38.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/RE9-BPSS-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/re9-bpss-banner.png"
     },
     {
       "name": "Red Dead Redemption 2",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pelo Launcher.exe na pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pelo Launcher.exe na pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.0/RDR2.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/rdr2-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/rdr2-bpss-banner.png",
@@ -18,56 +18,56 @@
     },
     {
       "name": "Grand Theft Auto V (Legacy)",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pelo PlayGTAV.exe na pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pelo PlayGTAV.exe na pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.0/GTA5LEGACY.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/gta5-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/gta5-bpss-banner.png"
     },
     {
       "name": "Red Dead Redemption",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.0/Red.Dead.Redemption.1.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/rdr1-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/rdr1-bpss-banner.png"
     },
     {
       "name": "Black Myth: Wukong",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo normalmente pela Steam.",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/Black.Myth.Wukong.Bypass-voices38.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/bmwBPSS.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/bmw-bpss-banner.png"
     },
     {
       "name": "DOOM: The Dark Ages",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo normalmente pela Steam.",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/DOOM.The.Dark.Ages-BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/doom-tda.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/doomtda-bpss-banner.png"
     },
     {
       "name": "STELLAR BLADE",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo normalmente pela Steam.",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/Stellar.Blade.voices38-BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/stellablade-bpss.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/stellarblade-bpss-banner.png"
     },
     {
       "name": "Grand Theft Auto IV",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pelo PlayGTAIV.exe na pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pelo PlayGTAIV.exe na pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.0/GTA-IV-BYPASS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/gta4BPSS.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/gta4-bpss-banner.png"
     },
     {
       "name": "EA SPORTS™ FIFA 22",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.3/FIFA.22.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/fifa22-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/fifa22-bpss-banner.png"
     },
     {
       "name": "Assassin's Creed Valhalla",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/AC.Valhalla.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/ACV-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/acv-bpss-banner.png",
@@ -75,13 +75,13 @@
     },
     {
       "name": "Efootball PES 2021",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/PES2021.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/pes2021-bpss-site.png"
     },
     {
       "name": "The Crew 2",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/The.Crew.2.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/thecrew2-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/thecrew2-bpss-banner.png",
@@ -89,21 +89,21 @@
     },
     {
       "name": "Persona 5 Royal",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/Persona.5.Royal.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/person5R-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/persona5r-bpss-banner.png"
     },
     {
       "name": "Call Of Duty Black Ops II",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela Steam.",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo normalmente pela Steam.",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/COD.BO.II.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/cod_bo2-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/codbo2-bpss-banner.png"
     },
     {
       "name": "Star Wars Battlefront II",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.3/SW.Battlefront.II.BPS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/sw_b2-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/swbf2-bpss-banner.png",
@@ -111,20 +111,20 @@
     },
     {
       "name": "Assassin's Creed Origins",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/AC.Origins.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/ACO-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/aco-bpss-banner.png"
     },
     {
       "name": "Microsoft Flight Simulator 2020",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/Flight.Simulator.2020.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/MFS20-bpss-site.png"
     },
     {
       "name": "Far Cry 3",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta bin.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta bin.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/FarCry.3.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/farcry3-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/farcry3-bpss-banner.png",
@@ -132,13 +132,13 @@
     },
     {
       "name": "Sonic Frontiers",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/Sonic.Frontiers.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/SonicFrontiers-bpss-site.png"
     },
     {
       "name": "Far Cry 4",
-      "description": "1) Baixe o arquivo compactado.\n2) Extraia o conteúdo do arquivo.\n3) Mova os arquivos extraídos para a pasta do jogo.\n4) Substitua os arquivos quando solicitado.\n5) Inicie o jogo pela pasta bin.⚠️",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta bin.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.2/FarCry.4.BPSS.zip",
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/farcry4-bpss-site.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/farcry4-bpss-banner.png",
