@@ -199,6 +199,14 @@
       "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/battlefield4-bpss.png",
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/battlefield4-bpss-banner.png",
       "exe_path": "bin/FarCry4.exe"
+    },
+    {
+      "name": "Need for Speed Heat",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pela pasta.⚠️",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.3/NFS.Heat-bpss.zip",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/nfs.heat-bpss.png",
+      "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/nfs.heat-bpss-banner.png",
+      "exe_path": "bin/FarCry4.exe"
     }
   ]
 }
