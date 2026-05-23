@@ -66,6 +66,13 @@
       "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/stellarblade-bpss-banner.png"
     },
     {
+      "name": "Mafia: The Old Country",
+      "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo normalmente pela Steam.",
+      "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.1/Mafia.The.Old.Country-bpss.zip",
+      "image_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/mafia.toc-bpss.png",
+      "banner_url": "https://raw.githubusercontent.com/RickSla22/bpss-launcher-config/refs/heads/main/images/mafia.toc-bpss-banner.png"
+    },
+    {
       "name": "Grand Theft Auto IV",
       "description": "1) Selecione a pasta do jogo.\n2) Clique em Instalar Agora.\n3) Aguarde o download e extração.\n4) O bypass será aplicado para o diretório selecionado.\n5) Inicie o jogo pelo PlayGTAIV.exe na pasta.⚠️",
       "download_url": "https://github.com/RickSla22/AccLoungeDownloads/releases/download/v1.0/GTA-IV-BYPASS.zip",
